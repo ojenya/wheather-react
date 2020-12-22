@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import "./App.css";
 //добавить GRID ROW COL from react-bootstrap
 const PLACES = [
-  { name: "Palo Alto", zip: "94303" },
+  { name: "Palo Alto ", zip: "94303" },
   { name: "San Jose", zip: "94088" },
   { name: "Santa Cruz", zip: "95062" },
   { name: "Honolulu", zip: "96803" }
